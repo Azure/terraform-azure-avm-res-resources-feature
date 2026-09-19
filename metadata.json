@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Azure/azure-verified-modules-tools/main/src/Avm.Authoring/Resources/Schemas/v1/avm-module-metadata.schema.json",
+  "moduleDisplayName": "Resource Features",
+  "moduleDescription": "AVM Resource Module for Resource Features",
+  "canonicalType": "Microsoft.Resources/features",
+  "owners": [],
+  "telemetryIdPrefix": "46d3xtrf.res.a674cee"
+}
