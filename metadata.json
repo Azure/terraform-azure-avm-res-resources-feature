@@ -3,6 +3,8 @@
   "moduleDisplayName": "Resource Features",
   "moduleDescription": "AVM Resource Module for Resource Features",
   "canonicalType": "Microsoft.Resources/features",
-  "owners": [],
+  "owners": [
+    "lonegunmanb"
+  ],
   "telemetryIdPrefix": "46d3xtrf.res.a674cee"
 }
